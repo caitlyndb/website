@@ -14,3 +14,10 @@ h1 {
 p {
     font-size: large;
 }
+
+a {
+    color:#fbff00;
+}
+a:hover {
+    color: rgb(213, 181, 0);
+}
